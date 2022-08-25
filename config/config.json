@@ -1,0 +1,7 @@
+{
+    "token": "MTAwMDQzODgwNjgxMTUyMTE1NA.Gn_s7X.wAfLJFJS4NcajnaMUrb7Afnx1dbh0wiyK-DF3A",
+    "prefix": "r!",
+    "mongodb": "mongodb+srv://bot-del-canal:Q5x1XeBZpA8VpcBM@cluster0.wmutebo.mongodb.net/BotCanal?retryWrites=true&w=majority",
+    "ownerIDS": ["944920472754200616", "968530641652166687"],
+    "color": "#ff0000"
+}
